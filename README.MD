@@ -6,9 +6,6 @@
 - 👯 Quero aprender e compartilhar conhecimento com o maximo de pessoas possiveis
 - ⚡ Fun fact: Eu amo Video Games, e Sou apaixonado por Musica🎵
 
-### ONDE ME ACHAR:
-[![website](<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />)](https://linkedin.com/in/wendel-alves-251b941b0#gh-dark-mode-only)
-
 ### Linguagem e Ferramentas que eu Uso...
 
 <img align="left" alt="ATOM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /> 
