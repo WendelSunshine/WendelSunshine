@@ -8,4 +8,4 @@
 
 ### Linguagem e Ferramentas que eu Uso...
 
-[<img align="left" alt="ATOM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="ATOM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;"]
