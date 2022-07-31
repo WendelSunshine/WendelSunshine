@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Eu amo Video Games, e Sou apaixonado por Musica🎵
 
 ### ONDE ME ACHAR:
-[![website](<img width=26px src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg">)](https://linkedin.com/in/wendel-alves-251b941b0#gh-dark-mode-only)
+[![website](<img width=26px src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>)](https://linkedin.com/in/wendel-alves-251b941b0#gh-dark-mode-only)
 
 ### Linguagem e Ferramentas que eu Uso...
 
