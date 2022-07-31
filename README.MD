@@ -14,5 +14,12 @@
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img align="left" alt="RUBY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" /> 
           
-      
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="WendelSunshine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WendelSunshine&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+
 [linkedin]: [https://www.linkedin.com/in/wendel-alves-251b941b0/]
