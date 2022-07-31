@@ -24,4 +24,4 @@
 </details>
 
 
-[linkedin]: [https://www.linkedin.com/in/wendel-alves-251b941b0/]
+[linkedin]: https://www.linkedin.com/in/wendel-alves-251b941b0/
